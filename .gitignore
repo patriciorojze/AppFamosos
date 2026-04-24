@@ -1,0 +1,19 @@
+rsconnect/
+.Rproj.user/
+.RData
+.RDataTmp
+.Rprofile
+.Rhistory
+renv/library/
+app/rsconnect/
+app/.Rproj.user/
+app/.RData
+app/.RDataTmp
+app/.Rprofile
+app/renv/library/
+app/.Rhistory
+data/ListaPersonas.RData
+data/ListaReferencias.RData
+app/data/ListaEdades.RData
+*.RData
+!app/data/ListaEdades - copia.RData
